@@ -1,7 +1,7 @@
 Cryptography Resources
 ======================
 
-Free online resources on Cryptography.
+Free online resources to learn Cryptography.
 
 Courses
 -------

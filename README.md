@@ -3,7 +3,7 @@ Cryptography Resources
 
 Free online resources to learn Cryptography.
 
-Courses
+Online courses
 -------
 
 - [Cryptography I](https://www.coursera.org/course/crypto) *Stanford University*, with Dan Boneh
@@ -20,10 +20,13 @@ Courses
 Lecture notes
 -------------
 
+- [CS255 - Introduction to Cryptography (Winter 2015)](http://crypto.stanford.edu/~dabo/cs255) *Stanford University*
+	- By Dan Boneh. Cryptography is an indispensable tool for protecting information in computer systems. This course explains the inner workings of cryptographic primitives and how to correctly use them.
+
 - [CS 276 - Cryptography (Fall 2014)](http://www.cs.berkeley.edu/~sanjamg/classes/cs276-fall14/) *UC Berkeley*
-	
+
 - [89-656 - Introduction to Cryptography](http://u.cs.biu.ac.il/~lindell/89-656/Intro-to-crypto-89-656.pdf) *Bar-Ilan University*
-	- This is an outdated draft of lecture notes written for an undergraduate course in cryptography at Bar-IlanUniversity, Israel. The notes are replaced by the textbook Introduction to Cryptography by Jonathan Katz and Yehuda Lindell. There is a significant difference between the presentation in these notes and in the textbook.
+	- This is an outdated draft of lecture notes written for an undergraduate course in cryptography at Bar-Ilan University, Israel. The notes are replaced by the textbook Introduction to Cryptography by Jonathan Katz and Yehuda Lindell. There is a significant difference between the presentation in these notes and in the textbook.
 
 - [Lecture Notes on Cryptography](http://cseweb.ucsd.edu/~mihir/papers/gb.html) *by S. Goldwasser and M. Bellare*
 	- This is a set of lecture notes for a summer course on cryptography, taught by the authors at the Massachusetts Institute of Technology (MIT), 1996--2008. 
@@ -46,13 +49,18 @@ Papers
 - C. Shannon, [A Mathematical Theory of Communication](http://cm.bell-labs.com/cm/ms/what/shannonday/paper.html), Bell System Technical Journal, vol. 27, pp. 379-423 and 623-656, July and October, 1948.
 - C. Shannon, [Communication Theory of Secrecy Systems](http://www.cs.ucla.edu/%7Ejkong/research/security/shannon1949.pdf).
 - S. Goldwasser, S. Micali, and C. Rackoff, [The Knowledge Complexity of Interactive Proof Systems](http://groups.csail.mit.edu/cis/pubs/shafi/1989-siamjc.pdf). SIAM J. of Computing, vol. 18, no. 1, 1989, Pages 186-208. 
-- S. Goldwasser, S. Micali, and R. L. Rivest, [A Digital Signature Scheme Secure Against Adaptive Chosen-Message Attacks](http://www.wisdom.weizmann.ac.il/~naor/COURSE/gomiri.ps), SIAM J. on Computing, vol 17(2) 1988, pages 281-308. 
 - R.L. Rivest, A. Shamir, and L.M. Adleman, [A Method for Obtaining Digital-Signatures and Public-Key Cryptosystems](http://theory.lcs.mit.edu/~rivest/rsapaper.ps), Comm. ACM 21(2): 120-126 (1978). 
+- S. Goldwasser, S. Micali, and R. L. Rivest, [A Digital Signature Scheme Secure Against Adaptive Chosen-Message Attacks](http://www.wisdom.weizmann.ac.il/~naor/COURSE/gomiri.ps), SIAM J. on Computing, vol 17(2) 1988, pages 281-308. 
 
 Additional material
 -------------------
 
 - [A Computational Introduction to Number Theory and Algebra](http://shoup.net/ntb/), *by Victor Shoup*
 	- "A book introducing basic concepts from computational number theory and algebra, including all the necessary mathematical background."
+
+- [Elementary Number Theory: Primes, Congruences, and Secrets](http://wstein.org/ent/ent.pdf) *by William Stein* 
+	- "This is a book about prime numbers, congruences, secret messages, and elliptic curves that you can read cover to cover. It grew out of undergraduate courses that the author taught at Harvard, UC San Diego, and the University of Washington."
+
+- [An Introductory Course in Elementary Number Theory](http://www.saylor.org/site/wp-content/uploads/2013/05/An-Introductory-in-Elementary-Number-Theory.pdf) *by Wissam Raji*
 
 - [Discrete Probability](http://en.wikibooks.org/wiki/High_School_Mathematics_Extensions/Discrete_Probability), *on Wikibooks*

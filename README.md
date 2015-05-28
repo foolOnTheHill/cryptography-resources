@@ -45,15 +45,25 @@ Books
 Papers
 ------
 
-- W. Diffie and M. Hellman, [New Directions in Cryptography](http://www.cs.berkeley.edu/~christos/classics/diffiehellman.pdf), IEEE Trans. on Information Theory, 1976.
 - C. Shannon, [A Mathematical Theory of Communication](http://cm.bell-labs.com/cm/ms/what/shannonday/paper.html), Bell System Technical Journal, vol. 27, pp. 379-423 and 623-656, July and October, 1948.
 - C. Shannon, [Communication Theory of Secrecy Systems](http://www.cs.ucla.edu/%7Ejkong/research/security/shannon1949.pdf).
+- W. Diffie and M. Hellman, [New Directions in Cryptography](http://www.cs.berkeley.edu/~christos/classics/diffiehellman.pdf), IEEE Trans. on Information Theory, 1976.
 - S. Goldwasser, S. Micali, and C. Rackoff, [The Knowledge Complexity of Interactive Proof Systems](http://groups.csail.mit.edu/cis/pubs/shafi/1989-siamjc.pdf). SIAM J. of Computing, vol. 18, no. 1, 1989, Pages 186-208. 
 - R.L. Rivest, A. Shamir, and L.M. Adleman, [A Method for Obtaining Digital-Signatures and Public-Key Cryptosystems](http://theory.lcs.mit.edu/~rivest/rsapaper.ps), Comm. ACM 21(2): 120-126 (1978). 
 - S. Goldwasser, S. Micali, and R. L. Rivest, [A Digital Signature Scheme Secure Against Adaptive Chosen-Message Attacks](http://www.wisdom.weizmann.ac.il/~naor/COURSE/gomiri.ps), SIAM J. on Computing, vol 17(2) 1988, pages 281-308. 
+- V. Shoup, [On	formal	models	of	key	exchange (version 4)](http://shoup.net/papers/skey.pdf), November 15, 1999 revision of IBM Research Report RZ 3120 (April 1999).
 
-Additional material
--------------------
+Other resources
+---------------
+
+- [The Block Cipher Lounge](http://www2.mat.dtu.dk/people/Lars.R.Knudsen/bc.html): "On this page we try to give an overview of recent block ciphers. We also provide some pointers to people who make fast implementations."
+
+- [The Block Cipher Lounge - AES](http://www2.mat.dtu.dk/people/Lars.R.Knudsen/aes.html)
+
+- [The Hash Function Lounge](http://www.larc.usp.br/~pbarreto/hflounge.html): "The goal of this site is to give an overview of hash functions intended for cryptographic applications."
+
+Complementary material
+----------------------
 
 - [A Computational Introduction to Number Theory and Algebra](http://shoup.net/ntb/), *by Victor Shoup*
 	- "A book introducing basic concepts from computational number theory and algebra, including all the necessary mathematical background."

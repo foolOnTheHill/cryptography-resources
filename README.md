@@ -17,6 +17,8 @@ Online courses
 
 - [Applied Cryptography](https://www.udacity.com/course/cs387) *Udacity*, with Dave Evans
 
+- [Journey into cryptography](https://www.khanacademy.org/computing/computer-science/cryptography) *Khan Academy*
+
 Lecture notes
 -------------
 
@@ -24,9 +26,16 @@ Lecture notes
 	- By Dan Boneh. Cryptography is an indispensable tool for protecting information in computer systems. This course explains the inner workings of cryptographic primitives and how to correctly use them.
 
 - [CS 276 - Cryptography (Fall 2014)](http://www.cs.berkeley.edu/~sanjamg/classes/cs276-fall14/) *UC Berkeley*
+	- By Sanjam Garg.
 
 - [89-656 - Introduction to Cryptography](http://u.cs.biu.ac.il/~lindell/89-656/Intro-to-crypto-89-656.pdf) *Bar-Ilan University*
-	- This is an outdated draft of lecture notes written for an undergraduate course in cryptography at Bar-Ilan University, Israel. The notes are replaced by the textbook Introduction to Cryptography by Jonathan Katz and Yehuda Lindell. There is a significant difference between the presentation in these notes and in the textbook.
+	- This is an outdated draft of lecture notes written for an undergraduate course in cryptography at Bar-Ilan University, Israel. The notes are replaced by the textbook *Introduction to Modern Cryptography* by Jonathan Katz and Yehuda Lindell. There is a significant difference between the presentation in these notes and in the textbook.
+
+- [Introdução à Criptografia Moderna](https://www.dropbox.com/sh/bjoirssm8lhad18/AADmr-ABVb0eW3oSysUQrbKPa?dl=0) *Federal University of Pernambuco*
+	- This is a introdutory course is taught by Ruy de Queiroz at UFPE. The lecture slides are in portuguese and are based on the textbook *Introduction to Modern Cryptography* by Jonathan Katz and Yehuda Lindell.
+
+- [COMS 4261 - Intro. to Cryptography](http://www1.cs.columbia.edu/~zeph/4261/lectures/) *Columbia University*
+	- By Zeph Grunschlag.
 
 - [Lecture Notes on Cryptography](http://cseweb.ucsd.edu/~mihir/papers/gb.html) *by S. Goldwasser and M. Bellare*
 	- This is a set of lecture notes for a summer course on cryptography, taught by the authors at the Massachusetts Institute of Technology (MIT), 1996--2008. 

@@ -62,6 +62,11 @@ Papers
 - S. Goldwasser, S. Micali, and R. L. Rivest, [A Digital Signature Scheme Secure Against Adaptive Chosen-Message Attacks](http://www.wisdom.weizmann.ac.il/~naor/COURSE/gomiri.ps), SIAM J. on Computing, vol 17(2) 1988, pages 281-308. 
 - V. Shoup, [On	formal	models	of	key	exchange (version 4)](http://shoup.net/papers/skey.pdf), November 15, 1999 revision of IBM Research Report RZ 3120 (April 1999).
 
+Implementations
+---------------
+
+- [retter](https://github.com/MaciejCzyzewski/retter): The purpose of this project is to promote and develop cryptography. It includes the collection of known tools, libraries, articles, materials, hash functions, and ciphers.
+
 Other resources
 ---------------
 

@@ -57,6 +57,7 @@ Papers
 - C. Shannon, [A Mathematical Theory of Communication](http://cm.bell-labs.com/cm/ms/what/shannonday/paper.html), Bell System Technical Journal, vol. 27, pp. 379-423 and 623-656, July and October, 1948.
 - C. Shannon, [Communication Theory of Secrecy Systems](http://www.cs.ucla.edu/%7Ejkong/research/security/shannon1949.pdf).
 - W. Diffie and M. Hellman, [New Directions in Cryptography](http://www.cs.berkeley.edu/~christos/classics/diffiehellman.pdf), IEEE Trans. on Information Theory, 1976.
+- R.C. Merkle, [Secrecy, authentication, and public key systems](http://www.merkle.com/papers/Thesis1979.pdf). Stanford Ph.D. thesis 1979.
 - S. Goldwasser, S. Micali, and C. Rackoff, [The Knowledge Complexity of Interactive Proof Systems](http://groups.csail.mit.edu/cis/pubs/shafi/1989-siamjc.pdf). SIAM J. of Computing, vol. 18, no. 1, 1989, Pages 186-208. 
 - R.L. Rivest, A. Shamir, and L.M. Adleman, [A Method for Obtaining Digital-Signatures and Public-Key Cryptosystems](http://theory.lcs.mit.edu/~rivest/rsapaper.ps), Comm. ACM 21(2): 120-126 (1978). 
 - S. Goldwasser, S. Micali, and R. L. Rivest, [A Digital Signature Scheme Secure Against Adaptive Chosen-Message Attacks](http://www.wisdom.weizmann.ac.il/~naor/COURSE/gomiri.ps), SIAM J. on Computing, vol 17(2) 1988, pages 281-308. 

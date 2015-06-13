@@ -32,7 +32,7 @@ Lecture notes
 	- This is an outdated draft of lecture notes written for an undergraduate course in cryptography at Bar-Ilan University, Israel. The notes are replaced by the textbook *Introduction to Modern Cryptography* by Jonathan Katz and Yehuda Lindell. There is a significant difference between the presentation in these notes and in the textbook.
 
 - [Introdução à Criptografia Moderna](https://www.dropbox.com/sh/bjoirssm8lhad18/AADmr-ABVb0eW3oSysUQrbKPa?dl=0) *Federal University of Pernambuco*
-	- This is a introdutory course is taught by Ruy de Queiroz at UFPE. The lecture slides are in portuguese and are based on the textbook *Introduction to Modern Cryptography* by Jonathan Katz and Yehuda Lindell.
+	- This is a introdutory course taught by Ruy de Queiroz at UFPE. The lecture slides are in portuguese and are based on the textbook *Introduction to Modern Cryptography* by Jonathan Katz and Yehuda Lindell.
 
 - [COMS 4261 - Intro. to Cryptography](http://www1.cs.columbia.edu/~zeph/4261/lectures/) *Columbia University*
 	- By Zeph Grunschlag.
